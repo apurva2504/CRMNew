@@ -1,5 +1,15 @@
 package com.qa.pages;
 
 public class HomePage {
-System.out.println("hello");
+	
+	
+	
+	
+	public void h() {
+	
+   System.out.println("hello");
+   
+	}
+
+
 }
